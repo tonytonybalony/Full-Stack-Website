@@ -1,15 +1,17 @@
+## 🔨How I Build This Project
 
-
+ I followed this excellent YouTube tutorial by `Lama Dev`:
+➡️ [Full Stack Web Development Tutorial (MERN)](https://www.youtube.com/watch?v=Cxftp90K_ek)
 
 
 
 ## 📚 Project Overview
 
-The **"Online Course Enrollment"** platform is designed to provide a seamless and intuitive experience for users to enroll in various courses.
-
+The **"Online Course Enrollment"** platform is designed to provide a seamless and intuitive experience for users to enroll in various courses. 
 The application allows **instructors** to create and manage courses, while **students** can browse, enroll, and complete courses at their own pace or participate in live sessions.
 
----
+
+
 
 ## ✨ Key Features
 
@@ -43,7 +45,7 @@ The application allows **instructors** to create and manage courses, while **stu
 - **Scalability**
   The application is hosted on Azure Web App with CI/CD pipelines managed by Azure DevOps.
 
----
+
 
 ## Technology Stack
 
@@ -79,7 +81,7 @@ The application allows **instructors** to create and manage courses, while **stu
   
 - **Payment:** Stripe / PayPal
 
----
+
 
 ## Benefits
 
@@ -93,7 +95,7 @@ The application allows **instructors** to create and manage courses, while **stu
   
 - **Automation:** Workflow automation with Azure Logic Apps for better efficiency and reduced manual intervention.
 
----
+
 
 
 
