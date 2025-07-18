@@ -1,7 +1,7 @@
 ## 🔨How I Build This Project
 
- I followed this excellent YouTube tutorial by `Lama Dev`:
-➡️ [Full Stack Web Development Tutorial (MERN)](https://www.youtube.com/watch?v=Cxftp90K_ek)
+ I followed this YouTube tutorial by `Learning Smart Coding`:
+ [Full Stack Web Development Tutorial (MERN)](https://www.youtube.com/watch?v=Cxftp90K_ek)
 
 
 
